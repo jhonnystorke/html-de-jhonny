@@ -1,0 +1,32 @@
+!DOCTYPE html>
+<html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"content="width=device-width, initial-scale=1.0">
+        <title>jhonny</title>
+    </head>
+    <body>
+  <h1> <mark style = "background-color: blue"> Progrmação (matematica II)</mark></h1>
+  <h1><mark style="background-color:red"> Exercicio 3 Segundo Trimestre a,/mark></h1>
+  <h1> Minhas ferias </h1>
+
+<p><ins> minhas ferias foram...</strong></ins>
+  <ol>
+    <li> Onde Fui </li>
+  <ul>
+    <li> fui na casa do meu amigo <img src= imagem alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Fvetores-premium%2Fcasa-edificio-vector-icon-ilustracao_6251175.htm&psig=AOvVaw0cQbE_hucc_mA56AEqebLd&ust=1691069926088000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLjs3cOMvoADFQAAAAAdAAAAABAE"></li>
+  </ul>
+    <li> Oque eu comi </li>
+  <ul>
+    <li> Eu comi bolo de cenoura <img src= imagem alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.depositphotos.com%2Fvector-images%2Fbolo-de-cenoura.html&psig=AOvVaw04FXPs_lPUz35TViwa3cVS&ust=1691070237202000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCMii9OWNvoADFQAAAAAdAAAAABAE"></li>
+  </ul>
+    <li> oque eu bebi </li>
+  <ul>
+    <li> eu bebi refrigerante <img src= imagem alt="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.promoview.com.br%2Fimg%2Fgalerias%2F26052023%2F-0616163001685131376.png&tbnid=iHY7URjwMQqb3M&vet=12ahUKEwiZsdvNjr6AAxWEqZUCHdodCyAQMygRegQIARBP..i&imgrefurl=https%3A%2F%2Fwww.promoview.com.br%2Fblog%2Fredacao%2Fvarejo%2Fguarana-jesus-latas-sao-joao-xyz2.html&docid=7Y1rNS02ISiLpM&w=800&h=483&q=refrigerante%20representa%C3%A7%C3%A3o%202d&ved=2ahUKEwiZsdvNjr6AAxWEqZUCHdodCyAQMygRegQIARBP"></li>
+  </ul>
+  </ol>
+  </p>
+</html>
+
+  
